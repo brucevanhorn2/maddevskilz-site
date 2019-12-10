@@ -96,7 +96,7 @@ body {
   font-size: 16px;
   min-width: 320px;
   line-height: 1.6;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Raleway', sans-serif;
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility; }
@@ -212,7 +212,7 @@ section {
   .heading-title h2 {
     line-height: 1.875rem;
     font-weight: 400;
-    font-family: "Roboto Slab", sans-serif;
+    font-family: "Raleway Slab", sans-serif;
     color: #3d3a3a; }
     .heading-title h2:after {
       content: "";
@@ -225,7 +225,7 @@ section {
       margin-bottom: 18px; }
     .heading-title h2 span {
       font-size: 1.9375rem;
-      font-family: 'Pacifico', cursive;
+      font-family: 'Aldrich', cursive;
       color: #26a1e0;
       padding-left: 5px;
       padding-right: 5px; }
@@ -313,7 +313,7 @@ section {
       font-size: 1.5625rem;
       line-height: 1.5625rem; }
       .buttons-download .download span span {
-        font-family: "Roboto Slab", sans-serif;
+        font-family: "Raleway Slab", sans-serif;
         font-size: 0.8125rem;
         display: block; }
     .buttons-download .download i {
@@ -448,7 +448,7 @@ section {
   font-size: 3.125rem;
   line-height: 4rem;
   font-weight: 500;
-  font-family: "Roboto Slab", sans-serif;
+  font-family: "Raleway Slab", sans-serif;
   margin: 0; }
   .heading-title-big span {
     font-weight: 300;
@@ -513,7 +513,7 @@ body:not(.header-fixed) .logo, .toggle-mnu {
 
 /*Start Mobile full screen menu*/
 #mobile-menu {
-  font-family: "Roboto Slab", sans-serif;
+  font-family: "Raleway Slab", sans-serif;
   position: fixed;
   top: 0;
   left: 0;
@@ -582,7 +582,7 @@ body:not(.header-fixed) .logo, .toggle-mnu {
     color: #f6f5f5;
     text-decoration: none; }
   .sf-menu > li {
-    font-family: "Roboto Slab", sans-serif;
+    font-family: "Raleway Slab", sans-serif;
     font-weight: 700;
     background-color: transparent;
     padding: 34px 0px 34px 0; }
@@ -764,7 +764,7 @@ body:not(.header-fixed) .logo, .toggle-mnu {
 
 /*Accordion*/
 .accordion {
-  font-family: "Roboto", sans-serif; }
+  font-family: "Raleway", sans-serif; }
   .accordion .ui-accordion-header {
     margin: 10px 0 0 0;
     background-color: #37414d;
@@ -1083,7 +1083,7 @@ header {
   transition: all ease .6s; }
   header .logo {
     text-decoration: none;
-    font-family: 'Pacifico', cursive;
+    font-family: 'Aldrich', cursive;
     display: inline-block;
     padding: 20px 0px 20px 0px;
     font-size: 1.8125rem;
@@ -1837,7 +1837,7 @@ footer {
 
 /*==========   Start FAQ Page ==========*/
 .faq-page .accordion-section h2 {
-  font-family: "Roboto Slab", sans-serif;
+  font-family: "Raleway Slab", sans-serif;
   font-weight: 400;
   font-size: 1.5625rem;
   color: #26a1e0;
@@ -2008,7 +2008,7 @@ footer {
     margin-top: 30px;
     margin-bottom: 50px; }
     .blog-page .single-post .heading-title h2 {
-      font-family: "Roboto", sans-serif;
+      font-family: "Raleway", sans-serif;
       font-weight: 500; }
 
 .blog-single-post header {
